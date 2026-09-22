@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zAa8ZB8laJk=",
+  "dgSpecHash": "mvaKjwXmFAw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj",
+  "projectFilePath": "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sirpi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
-    "C:\\Users\\sirpi\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+    "C:\\Users\\calle\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\calle\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
   ],
   "logs": []
 }

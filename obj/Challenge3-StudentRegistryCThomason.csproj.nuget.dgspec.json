@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj": {}
+    "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj": {
+    "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj",
+        "projectUniqueName": "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj",
         "projectName": "Challenge3-StudentRegistryCThomason",
-        "projectPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj",
-        "packagesPath": "C:\\Users\\sirpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge3-StudentRegistryCThomason\\obj\\",
+        "projectPath": "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge3-StudentRegistryCThomason\\Challenge3-StudentRegistryCThomason.csproj",
+        "packagesPath": "C:\\Users\\calle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge3-StudentRegistryCThomason\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sirpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\calle\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
