@@ -8,9 +8,10 @@ namespace Challenge3_StudentRegistryCThomason.Models
     {
         public int Id{get; set;}
         public string Name{get; set;}
-        public int Age{get; set;}
-        public string Job{get; set;}
-        public bool Attendance{get; set;}
+        public string LastName{get; set;}
+        public string Hobby{get; set;}
+        public string Email{get; set;}
+        public string SlackName{get; set; }
 
     }
 }

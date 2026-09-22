@@ -9,11 +9,14 @@ namespace Challenge3_StudentRegistryCThomason.Controllers
     public class StudentController : ControllerBase
     {
       private static List<Students> group = [
-          new Students {Id = 1, Name = "Callen Thomason", Age = 19, Job = "Cashier", Attendance = true},
-         new Students {Id = 2, Name = "Tyler Thomason", Age = 19, Job = "Pizza chef", Attendance = false},
-          new Students {Id = 3, Name = "Zionn Showers", Age = 18, Job = "Programmer", Attendance = true}
+          new Students {Id = 1, Name = "Callen", LastName = "Thomason", Hobby = "Lifting", Email = "cthomason@codestack.co", SlackName = "Callen Thomason"},
+         new Students {Id = 2, Name = "Zionn", LastName = "Showers", Hobby = "Gaming", Email = "zshowers@codestack.co", SlackName = "Zionn Showers"},
+         new Students {Id = 3, Name = "Valery", LastName = "Lot", Hobby = "Trying new restuarants", Email = "vlot@codestack.co", SlackName = "Valery Lot"},
+         new Students {Id = 4, Name = "Brandon", LastName = "Langehennig", Hobby = "Art", Email = "blangehennig@codestack.co", SlackName = "Brandon Langehennig"},
+         new Students {Id = 5, Name = "Zackery", LastName = "Santos", Hobby = "Gaming", Email = "zsantos@codestack.co", SlackName = "NO USER FOUND"},
+         new Students {Id = 6, Name = "Chris", LastName = "Estrada", Hobby = "Magic The Gathering", Email = "cestrada@codestack.co", SlackName = "Chris Estrada"}
       ];  
-      private static int _nextId = 4; 
+      private static int _nextId = 7; 
 
       [HttpGet("getstudent/{id}")]
       public ActionResult<Students> GetById(int id)
@@ -23,6 +26,20 @@ namespace Challenge3_StudentRegistryCThomason.Controllers
             if(student is null)
             {
                 return NotFound($"No student was found with the id {id}. Try again.");
+            }
+            return Ok(student); 
+        }
+         [HttpGet("getemail/{email}")]
+      public ActionResult<Students> GetByEmail(string email)
+        {
+            Students? student = group.FirstOrDefault(s => s.Email == email);
+
+            if(student is null)
+            {
+                  student = group.FirstOrDefault(s => s.Email == email + "@codestack.co");
+               if(student is null){
+                return NotFound($"No student was found with the id {email}. Try again.");
+                }
             }
             return Ok(student); 
         }
@@ -57,9 +74,10 @@ namespace Challenge3_StudentRegistryCThomason.Controllers
               return NotFound($"No student was found with the id {id}. Try again.");  
             }
                student.Name = incoming.Name;
-               student.Age = incoming.Age;
-               student.Job = incoming.Job;
-               student.Attendance = incoming.Attendance; 
+               student.LastName = incoming.LastName;
+               student.Hobby = incoming.Hobby;
+               student.Email = incoming.Email; 
+               student.SlackName = incoming.SlackName; 
 
                return Ok(true);  
             
