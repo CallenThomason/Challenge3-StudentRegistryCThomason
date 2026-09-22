@@ -1,0 +1,6 @@
+@Challenge3_StudentRegistryCThomason_HostAddress = http://localhost:5113
+
+GET {{Challenge3_StudentRegistryCThomason_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
