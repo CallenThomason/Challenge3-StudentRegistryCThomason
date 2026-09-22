@@ -32,3 +32,37 @@ C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge3-StudentRegistryC
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.genruntimeconfig.cache
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\ref\Challenge3-StudentRegistryCThomason.dll
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.sourcelink.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\appsettings.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Challenge3-StudentRegistryCThomason.staticwebassets.endpoints.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Challenge3-StudentRegistryCThomason.exe
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Challenge3-StudentRegistryCThomason.deps.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Challenge3-StudentRegistryCThomason.runtimeconfig.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Challenge3-StudentRegistryCThomason.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Challenge3-StudentRegistryCThomason.pdb
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.csproj.AssemblyReference.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.AssemblyInfoInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.AssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.csproj.CoreCompileInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.sourcelink.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\scopedcss\bundle\Challenge3-StudentRegistryCThomason.styles.css
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challeng.71BE2328.Up2Date
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\refint\Challenge3-StudentRegistryCThomason.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.pdb
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\Challenge3-StudentRegistryCThomason.genruntimeconfig.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge3-StudentRegistryCThomason\obj\Debug\net10.0\ref\Challenge3-StudentRegistryCThomason.dll
